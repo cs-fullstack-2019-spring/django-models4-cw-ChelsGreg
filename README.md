@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Good job! You actually even got the delete in. Well done!
+
 # Django Models and Foreign keys
 
 ### Exercise 1
